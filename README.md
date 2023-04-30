@@ -3,6 +3,9 @@
 ### Description   
 Pop Up Smash Pro was a game made and exhibited at the Portals of Perception Showcase at The Hub, Eagle Wharf, London SE. The game contains a Windows-95 themed computer screen on a projected surface containg various popups ranging from the annoying to the absurd that appear incessantly as the player is tasked with closing each one of them before the screen fills up. The interaction is achieved through conductive tape connected to the electrodes of a Bare Conductive Touch Board relaying the touch to a Processing sketch.
 
+### Team
+This project was done by a team consisting of Advait Ukidve, Avika Pulges, Eva Hayek, Ileana Park, Kiri Rodenburg, and Mae Horak (pictured below). 
+
 ### Components and Working
 
 - [DataStream.ino](./DataStream.ino) contains the Arduino C code uploaded to the Touch Board. The code will have to be uploaded, run, tested with the serial monitor, and the serial monitor closed in order for it to be communicated with the Processing sketch (main programme). The Touch Board outputs an array of 12 booleans with True representing the electrode number touched.
