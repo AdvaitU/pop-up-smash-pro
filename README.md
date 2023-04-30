@@ -12,7 +12,15 @@ This project was done by a team consisting of Advait Ukidve, Avika Pulges, Eva H
 - [Show_prototype.pde](show_prototype.pde) is the main Processing sketch that is run headlessly. It sets up the background screen, imports all the required image and sound files, and triggers the notification and the associated sound at a spot currently not held by an existing notification on the screen at random using the [NotificationFactory Class](NotificationFactory.pde).
 - [data](./data) contains all the images used in the game and [Gallery](./Gallery) contains images from the exhibition where it was presented.   
 
-## Gallery
+## Gallery   
 
-![Caption](./Gallery/image.jpg)
-<sub> Subtitle to go with image.
+![User 1 interacting with Pop Up Smash Pro at the Gallery.](./Gallery/IMG_3018.jpg)
+
+![User 2 interacting with Pop Up Smash Pro at the Gallery.](./Gallery/IMG_2864.jpg)   
+
+![User 3 interacting with Pop Up Smash Pro at the Gallery.](./Gallery/IMG_2891.jpg)
+<sub> Users interacting with Pop Up Smash Pro at the Gallery.      
+  
+    
+![The Team](./Gallery/IMG_3009.jpg)
+<sub> The Team.
