@@ -14,7 +14,7 @@ This project was done by a team consisting of Advait Ukidve, Avika Pulges, Eva H
 - [DataStream.ino](./DataStream.ino) contains the Arduino C code uploaded to the Touch Board. The code will have to be uploaded, run, tested with the serial monitor, and the serial monitor closed in order for it to be communicated with the Processing sketch (main programme). The Touch Board outputs an array of 12 booleans with True representing the electrode number touched.
 - [Show_prototype.pde](show_prototype.pde) is the main Processing sketch that is run headlessly. It sets up the background screen, imports all the required image and sound files, and triggers the notification and the associated sound at a spot currently not held by an existing notification on the screen at random using the [NotificationFactory Class](NotificationFactory.pde).
 - [data](./data) contains all the images used in the game and [Gallery](./Gallery) contains images from the exhibition where it was presented.   
-- [Notification_Gallery.md](Notification_Gallery.md) contains an easy-to-view gallery of the notification images used for the project
+- [Notifications_Gallery.md](Notifications_Gallery.md) contains an easy-to-view gallery of the notification images used for the project
 
 ## Gallery   
 
