@@ -1,4 +1,5 @@
 # Pop Up Smash Pro
+<sub> (March 2023)
 
 ### Description   
 Pop Up Smash Pro was a game made and exhibited at the Portals of Perception Showcase at The Hub, Eagle Wharf, London SE. The game contains a Windows-95 themed computer screen on a projected surface containg various popups ranging from the annoying to the absurd that appear incessantly as the player is tasked with closing each one of them before the screen fills up. The interaction is achieved through conductive tape connected to the electrodes of a Bare Conductive Touch Board relaying the touch to a Processing sketch.
