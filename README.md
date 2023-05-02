@@ -28,5 +28,6 @@ This project was done by a team consisting of [Advait Ukidve](https://github.com
   
     
 ![The Team](./Gallery/IMG_3009.jpg)
-<sub> The Team.
+<sub> The Team.   
+  
 <sub> All pictures clicked by Koundinya Dhulipalla
