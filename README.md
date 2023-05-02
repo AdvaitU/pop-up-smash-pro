@@ -28,3 +28,4 @@ This project was done by a team consisting of Advait Ukidve, Avika Pulges, Eva H
     
 ![The Team](./Gallery/IMG_3009.jpg)
 <sub> The Team.
+<sub> All pictures clicked by Koundinya Dhulipalla
